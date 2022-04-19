@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Chaitanya Girase</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
+ <p  align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in electronics and communication engineering.After Graduation i slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.</P>
+   
 
 - 📫 How to reach me **girase.chaitanya@gmail.com**
 
