@@ -2,15 +2,17 @@
 <h3 align="center">A passionate Full Stack Web developer</h3>
 <p align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in mechanical engineering.After Graduation I slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya8080&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya8080" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya8080" alt="chaitanya8080" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **girase.chaitanya@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya8080&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya8080" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya8080" alt="chaitanya8080" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
