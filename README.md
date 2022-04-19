@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web developer</h3>
  <p  align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in electronics and communication engineering.After Graduation i slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.</P>
    
-
+- 🌱 I’m currently learning **React.js**
 - 📫 How to reach me **girase.chaitanya@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
