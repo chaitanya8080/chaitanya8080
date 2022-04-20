@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer</h3>
 <p align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in mechanical engineering.After Graduation I slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.
 
-
+<img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 
 - 🌱 I’m currently learning **React.js**
 
