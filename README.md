@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **girase.chaitanya@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" ></a>
+- 📄 Know about my experiences [https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE6Tag9ev0/8CBUvra60qDlxLAesKWM4Q/watch?utm_content=DAE6Tag9ev0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya8080&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya8080" /> </p>
 
