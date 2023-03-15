@@ -4,7 +4,7 @@
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m working **React.js**  **Node.js**
 
 - 📫 How to reach me **girase.chaitanya@gmail.com**
 
