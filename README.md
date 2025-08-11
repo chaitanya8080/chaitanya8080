@@ -6,7 +6,7 @@
 
 - 🌱 I’m working **React.js**  **Node.js**
 
-- 📫 How to reach me **girase.chaitanya@gmail.com**
+- 📫 How to reach me **chaitanya.girase05@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1faPk9TDYprXUhOvGmLnNK-pKjxL7uk_M/view?usp=sharing
   
